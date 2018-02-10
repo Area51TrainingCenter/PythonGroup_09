@@ -1,0 +1,18 @@
+http://slides.com/xpktro/python1#/
+https://repl.it/languages/python3
+https://brew.sh/
+
+https://python.codnex.net/ ----> tambien para practicar de manera online GRACIAS
+http://shakespearelang.sourceforge.net/report/shakespeare/shakespeare.html#sec:hello
+http://wiki.c2.com/?HelloWorldInManyProgrammingLanguages
+
+Opciones para escribir código:
+https://notepad-plus-plus.org/download/v7.5.4.html (windows solamente)
+https://www.sublimetext.com/
+https://atom.io/
+http://lighttable.com/
+http://ninja-ide.org/
+https://code.visualstudio.com/
+
+https://www.jetbrains.com/pycharm/
+https://confluence.jetbrains.com/pages/viewpage.action?pageId=23004355
