@@ -1,0 +1,14 @@
+http://slides.com/xpktro/python1#/
+http://github.com/Area51TrainingCenter/PythonGroup_09
+
+Ejercicios:
+- Mostrar la fecha y hora del sistema
+www.w3resource.com/py
+https://codegolf.stackexchange.com/questions/88/obfuscated-fizzbuzz-golf
+http://slides.com/xpktro/musica
+
+https://wingware.com/downloads/   .....> ejecuta python
+https://www.edx.org/
+https://en.wikipedia.org/wiki/Snake_case
+http://qriollo.github.io/
+    
