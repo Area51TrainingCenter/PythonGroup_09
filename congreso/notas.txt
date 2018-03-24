@@ -1,0 +1,37 @@
+ http://sqlitebrowser.org/
+ https://editor.ponyorm.com
+
+ ......
+ python3 -m venv env
+ source env/bin/activate
+ ......
+
+ https://docs.djangoproject.com/en/2.0/
+
+ ......
+ python manage.py runserver
+ python manage.py startapp mociones
+ ......
+
+ https://docs.djangoproject.com/en/2.0/ref/models/fields/#field-types
+
+
+ ......
+ Relaciones:
+ ForeignKey -> ejemplo: Autor - Libro o autor - varios libros
+ ManyToMany -> ejemplo: Video - Tags
+ OneToOne -> ejemplo: Paciente - Resultado o Resultado - Paciente
+ ......
+ ......
+ python manage.py makemigrations
+ python manage.py migrate
+ python manage.py createsuperuser
+ ......
+
+ db browser for sqlite -----> http://sqlitebrowser.org/
+
+ https://docs.djangoproject.com/en/2.0/faq/general/#django-appears-to-be-a-mvc-framework-but-you-call-the-controller-the-view-and-the-view-the-template-how-come-you-don-t-use-the-standard-names
+
+ http://www.sphinx-doc.org/en/master/
+
+ https://docs.djangoproject.com/es/2.0/intro/tutorial03/
