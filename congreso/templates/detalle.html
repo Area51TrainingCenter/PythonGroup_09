@@ -1,4 +1,3 @@
-{% load static %}
 <!doctype html>
 <html lang="en">
 <head>
@@ -9,14 +8,14 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Congreso virtual</h1>
-    <img src="{% static 'congreso.jpg' %}">
+    <h1>{{ mocion.nombre }}</h1>
 
-    <h3>Últimas Mociones:</h3>
-    <ul>
-        {% for mocion in mociones %}
-            <li><a href="{% url 'detalle' mocion.pk %}">{{ mocion.nombre }}</a></li>
-        {% endfor %}
-    </ul>
+    <h3>Contenido:</h3>
+    <p>{{ mocion.contenido }}</p>
+    <h3>Categoria: {{ mocion.categoria.nombre }}</h3>
+    {% if mocion.presupuesto %}
+        <h3>Presupuesto: S/{{ mocion.presupuesto }}</h3>
+    {% endif %}
+    <h3>Estado: {{ mocion.get_estado_display }}</h3>
 </body>
 </html>
