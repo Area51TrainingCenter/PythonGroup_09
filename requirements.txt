@@ -7,7 +7,7 @@ idna==2.6
 itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
-Pillow==5.0.0
+Pillow==6.2.0
 PyPDF2==1.26.0
 pytesseract==0.2.0
 pyttsx3==2.7
